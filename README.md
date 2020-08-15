@@ -12,7 +12,7 @@ Choose the framework you gonna use for building Housework Undoer:
 
 - [React](./instructions/react.md)
 - [Vue](./instructions/vue.md)
-- Angular (coming soon)
+- [Angular](./instructions/angular.md)
 - Svelte (coming soon)
 
 **with :heart: by Banda Works**
