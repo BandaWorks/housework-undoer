@@ -36,3 +36,11 @@ app
 ```
 
 Make sure to remove imports of no longer existent files from `App.vue`.
+
+> Don't forget to commit the changes before starting coding :wink:
+
+And yeah, that's it — you are ready to start coding! 
+
+### What's next?
+
+Go to the [Task #001: Today's Housework](http://bandaworks.tilda.ws/housework-undoer/task-1) page to see the first feature you will build.
