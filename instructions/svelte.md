@@ -30,6 +30,12 @@ npm install
 
 > Check out Svelte's blog post ["Svelte <3 TypeScript"](https://svelte.dev/blog/svelte-and-typescript) for more information on using TS with Svelte.
 
+4\. To start the dev server run:
+
+```sh
+npm run dev
+```
+
 Don't forget to commit the changes before starting coding :wink:
 
 And yeah, that's it — you are ready to start coding!
