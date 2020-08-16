@@ -1,8 +1,8 @@
 ### Svelte (based on degit)
 
-The instruction is based on sveltejs official template located at: https://github.com/sveltejs/template.
+> **Prerequisites:** You need to have Node >= 8.10 and npm >= 5.6 on your machine. To check the versions installed on your machine, run `node -v` and `npm -v` in your terminal
 
-Here's the summary from `sveltejs/template`'s README.md, but make sure to check it out for expanded explanations and troubleshooting.
+Here's the summary from `sveltejs/template` [guide](https://github.com/sveltejs/template#svelte-app). Make sure to check it out for expanded explanations and troubleshooting.
 
 1\. Run in your terminal
 

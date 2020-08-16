@@ -1,22 +1,20 @@
 ### Vue (based on vue-cli)
 
-Official instruction is located at the official vue-cli "creating a project" page: https://cli.vuejs.org/guide/creating-a-project.html#vue-create.
+> **Prerequisites:** Vue CLI requires Node.js version 8.9 or above (8.11.0+ recommended).
 
-If you don't have vue-cli installed yet, check out its installation section: https://cli.vuejs.org/guide/installation.html
+Here's the summary from Vue [Creating a project](https://cli.vuejs.org/guide/creating-a-project.html#vue-create.) documentation. Make sure to check it out for expanded explanations and troubleshooting.
 
-Here's the summary from both pages, but make sure to check out them out for expanded explanations and troubleshooting.
-
-1\. Run in your terminal 
+1\. Run in your terminal
 
 ```sh
 # if you have error "Vue command not found", run
 # `npm install -g @vue/cli`
 # first to install vue-cli
-vue create app
-cd app
+vue create vue-app
+cd vue-app
 ```
 
-It will create a subdirectory `app` (within your current directory) using [@vue/cli]() and will change your current directory to `app`.
+It will create a subdirectory `vue-app` (within your current directory) using [@vue/cli]() and will change your current directory to `vue-app`.
 
 2\. Start the app by running
 
@@ -27,7 +25,7 @@ npm run serve
 3\. Opitionally, you can remove unnecessary files from source folder and only keep those that you will use
 
 ```
-app
+vue-app
 └── src
     ├── assets/
     ├── components/
@@ -39,7 +37,7 @@ Make sure to remove imports of no longer existent files from `App.vue`.
 
 > Don't forget to commit the changes before starting coding :wink:
 
-And yeah, that's it — you are ready to start coding! 
+And yeah, that's it — you are ready to start coding!
 
 ### What's next?
 
