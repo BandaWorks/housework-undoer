@@ -6,3 +6,41 @@ body {
   margin: 0;
 }
 
+/* Task Card */
+.task-card {
+  display: flex;
+  width: 14rem;
+  height: 14rem;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.reward {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.reward-points {
+  display: inline-block;
+  padding: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.task-title {
+  padding: 1.25rem 0.75rem;
+  font-size: small;
+  font-weight: 600;
+}
+
+/* Task Grid */
+.task-grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  gap: 2rem;
+}

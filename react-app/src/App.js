@@ -1,9 +1,10 @@
 import React from 'react';
+import TaskGrid from './components/TaskGrid';
 
 function App() {
   return (
     <div>
-      Housework undoer
+      <TaskGrid />
     </div>
   );
 }
