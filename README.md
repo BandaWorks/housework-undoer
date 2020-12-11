@@ -17,7 +17,7 @@ With that, the idea for Housework Undoer was born.
 
 ## Tasks
 
-Parents: 
+### Parents: 
 
 - [ ] **The history**: I want to see my children's completed tasks so I could give them bonus reward if they do the housework regularly
 
@@ -25,7 +25,7 @@ Parents:
 
 - [ ] **Grant HC rewards**: I want to be able to change the HC balance of children to reward them when they cooperate with each other to deal with the house chores
 
-Children: 
+### Children: 
 
 - [ ] **Today's housework**: I need to see the list of housework tasks with their rewards and descriptions,
 so to learn what I can do to get the reward 
