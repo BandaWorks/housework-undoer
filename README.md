@@ -37,13 +37,4 @@ so to learn what I can do to get the reward
 - [ ] **Help Coins balance**: I want to see my balance so I could exchange Help Coins with my parents to get real money or things
 
 
-## Instructions
-
-Choose the framework you gonna use for building Housework Undoer:
-
-- [React](./instructions/react.md)
-- [Vue](./instructions/vue.md)
-- [Angular](./instructions/angular.md)
-- [Svelte](./instructions/svelte.md)
-
 **with :heart: by Banda Works**
