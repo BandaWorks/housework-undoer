@@ -2,6 +2,7 @@
 
 You will build a home chores management app. The app is requested by one parent struggling with his kids that ignore home responsibilities. Leverage a basic gamification and bright colors to encourage kids to help with home chores.
 
+&nbsp;
 
 ### Background story
 
@@ -16,6 +17,7 @@ Recently,  Jack got a brilliant idea:
 
 With that, the idea for Housework Undoer was born.
 
+&nbsp;
 
 ### Tasks
 
@@ -36,5 +38,6 @@ so to learn what I can do to get the reward
 
 - [ ] **Help Coins balance**: I want to see my balance so I could exchange Help Coins with my parents to get real money or things
 
+&nbsp;
 
 **with :heart: by Banda Works**
