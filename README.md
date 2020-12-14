@@ -1,10 +1,19 @@
-### What you'll build?
+### :rocket: What you'll build?
 
-You will build a home chores management app. The app is requested by one parent struggling with his kids that ignore home responsibilities. Leverage a basic gamification and bright colors to encourage kids to help with home chores.
+*Housework management app*. The app is requested by one (imaginary) parent struggling with his kids that ignore home responsibilities. Leverage a gamification techniques and bright colors to encourage kids to help with home chores. Keep their needs in mind to handle the edge cases.
+
+
+#### :wrench: Recommended tools
+
+> This is an example of tools you may use to complete the project. You are free to use any tech stack you like as the project is tool-agnostic :slightly_smiling_face:
+
+- React, Redux and React Router
+- [Cloud Firestore](https://firebase.google.com/docs/firestore/quickstart) to store your app data
+- [Firebase Auth](https://firebase.google.com/docs/auth/web/password-auth) to authenticate the admin
 
 &nbsp;
 
-### Background story
+### :book: Background story
 
 Jack has been trying to teach his kids, Lily and Mary, to help their daddy with the housework.
 
